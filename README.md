@@ -9,6 +9,18 @@ Technologie: [Node](https://github.com/nodejs/node) + [Express](https://github.c
 
 
 
+## Technické oblasti zpracované v tomto projektu
+
+  * Express server
+  * Model
+  * Routing
+  * Autentifikace
+  * **Clustering**
+  * Kontrola nepřetržitého běhu procesu
+  * Logování
+
+
+
 ## REST API
 
 TODO: Definice Korunka API :-)
